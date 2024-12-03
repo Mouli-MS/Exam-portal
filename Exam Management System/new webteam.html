@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>amazing hover</title>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700i" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+    body{
+    font-family: 'Roboto Condensed', sans-serif;
+        background-size: cover;
+        background-color: #bfddeb;
+}
+
+  .our-team{
+    padding: 30px 0 40px;
+    background: #f7f5ec;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+    margin-top: 20px;
+
+}
+.our-team .pic{
+    display: inline-block;
+    width: 130px;
+    height: 130px;
+    margin-bottom: 50px;
+    z-index: 1;
+    position: relative;
+}
+.our-team .pic:before{
+    content: "";
+    width: 100%;
+    height: 0;
+    border-radius: 50%;
+    background: #0d3b53;
+    position: absolute;
+    bottom: 135%;
+    right: 0;
+    left: 0;
+     opacity: 0.9;
+    transform: scale(3);
+    transition: all 0.3s linear 0s;
+}
+.our-team:hover .pic:before{ height: 100%; }
+.our-team .pic:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: #0d3b53;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.our-team .pic img{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    transform: scale(1);
+    transition: all 0.9s ease 0s;
+}
+.our-team:hover .pic img{
+    box-shadow: 0 0 0 14px #f7f5ec;
+    transform: scale(0.7);
+
+}
+.our-team .team-content{ margin-bottom: 30px; }
+.our-team .title{
+    font-size: 16px;
+    font-weight: 700;
+    color: #4e5052;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+}
+.our-team .post{
+    display: block;
+    font-size: 15px;
+    color: #4e5052;
+    text-transform:capitalize;
+}
+.our-team .social{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: #0d3b53;
+    position: absolute;
+    bottom: -100px;
+    left: 0;
+    transition: all 0.5s ease 0s;
+}
+.our-team:hover .social{ bottom: 0; }
+.our-team .social li{ display: inline-block; }
+.our-team .social li a{
+    display: block;
+    padding: 10px;
+    font-size: 17px;
+    color: #fff;
+    transition: all 0.3s ease 0s;
+    text-decoration: none;
+}
+.our-team .social li a:hover{
+    color: #0d3b53;
+    background: #f7f5ec;
+}
+@media only screen and (max-width: 990px){
+    .our-team{ margin-bottom: 30px; }
+}
+</style>
+</head>
+<body>
+    <div class="container">
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="jayakrishna sir.jpg">
+                </div>
+                <div class="team-content">
+                    <h3 class="title">Guided By Shri T.Narasimhappadu sir</h3>
+                    <span class="post">Assistant Professor</span>
+                </div>
+                <ul class="social">
+                    <li><a href="#" class="fa fa-facebook" target="_blank"></a></li>
+                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                    <li><a href="#" class="fa fa-google-plus" target="_blank"></a></li>
+                    <li><a href="#" class="fa fa-linkedin" target="_blank"></a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="sonu in car.jpg">
+                </div>
+                <div class="team-content">
+                    <h3 class="title">Sonumahanty</h3>
+                    <span class="post">S180751</span>
+                </div>
+                <ul class="social">
+                    <li><a href="https://www.facebook.com/vamsikrishna.kodimela" class="fa fa-facebook" target="_blank"></a></li>
+                    <li><a href="https://twitter.com/TechnoPrime_t" class="fa fa-twitter" target="_blank"></a></li>
+                    <li><a href="https://www.instagram.com/vamsikrishnakodimela" class="fa fa-instagram" target="_blank"></a></li>
+                    <li><a href="mailto:s160172@rguktn.ac.in" class="fa fa-envelope" target="_blank"></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="raghupammi.jpg">
+                </div>
+                <div class="team-content">
+                    <h3 class="title">CH. Yugandhar</h3>
+                    <span class="post">S180234</span>
+                </div>
+                <ul class="social">
+                    <li><a href="https://www.facebook.com/gurunadhguru66"  class="fa fa-facebook" target="_blank"></a></li>
+                    <li><a href="https://twitter.com/Guru40611063" class="fa fa-twitter" target="_blank"></a></li>
+                    <li><a href="https://www.instagram.com/urstrulyguru" class="fa fa-instagram" target="_blank"></a></li>
+                    <li><a href="mailto:s160552@rguktn.ac.in" class="fa fa-envelope" target="_blank"></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="adarsh frnd.jpg">
+                </div>
+                <div class="team-content">
+                    <h3 class="title">P. Johnpaul</h3>
+                    <span class="post">S180468</span>
+                </div>
+                <ul class="social">
+                    <li><a href="https://www.facebook.com/kiransivasai.tatipaka" class="fa fa-facebook" target="_blank"></a></li>
+                    <li><a href="#" class="fa fa-twitter" target="_blank"></a></li>
+                    <li><a href="#" class="fa fa-instagram" target="_blank"></a></li>
+                    <li><a href="mailto:s160078@rguktn.ac.in" class="fa fa-envelope" target="_blank"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

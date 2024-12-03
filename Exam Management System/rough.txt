@@ -1,0 +1,86 @@
+
+India is a country where “water scarcity” is a major issue, and “Traditional gardening methods” often lead to the wastage of water resources.
+
+Overwatering can lead to “soil erosion” and nutrient depletion.
+
+Whether patterns in india can be unpredictable, with extended periods of drought or heavy rainfall
+
+By providing plants with the optimal amount of water, nutrients, and light. Smart hydro gardening systems can improve crop yield and quality.
+
+
+
+Traditional gardening practices often require significant human intervention and attention, making it challenging to maintain optimal conditions for plant growth, especially for busy individuals or inexperienced gardeners. Inefficient use of resources such as water and energy, as well as the inability to monitor plants remotely, can lead to suboptimal results and wastage. To address these challenges, the aim of this project is to develop a Smart Garden System using the Internet of Things (IoT) to create an automated, sustainable, and remotely monitored gardening solution.
+
+Key Challenges to Address:
+
+Automated Plant Care: Designing a system that can automatically monitor and adjust key environmental factors such as soil moisture, temperature, humidity, and sunlight exposure to ensure optimal conditions for plant growth. The system should be capable of providing appropriate amounts of water, nutrients, and light without the need for constant human intervention.
+
+Resource Efficiency: Developing algorithms and sensors to optimize the usage of water and energy resources in the garden. Reducing water wastage and energy consumption while ensuring the well-being of the plants is a critical aspect of sustainable gardening.
+
+Remote Monitoring and Control: Implementing a robust IoT infrastructure that allows users to remotely monitor and control the smart garden system through a user-friendly interface. This includes receiving real-time data on plant health, environmental conditions, and the ability to adjust settings to address specific needs.
+
+Plant Health Monitoring: Integrating sensors and software to detect and diagnose common plant diseases, pests, and nutrient deficiencies. Early detection of issues will enable timely intervention and prevent further damage to the plants.
+
+Scalability and Adaptability: Designing a system that can be easily scaled up or down to accommodate various garden sizes and types of plants. Additionally, considering different environmental conditions and adapting the system to different regions and climates.
+
+Power Management: Exploring energy-efficient solutions for powering the IoT devices in the garden, such as solar energy or low-power consumption methods to ensure uninterrupted operation.
+
+Data Security and Privacy: Implementing robust security measures to protect user data and prevent unauthorized access to the smart garden system.
+
+The goal of this project is to create a reliable, sustainable, and user-friendly Smart Garden System that enhances plant care, reduces resource consumption, and allows users to remotely monitor and manage their gardens with ease. By addressing these challenges, the system aims to promote green practices and encourage more individuals to participate in gardening while contributing to environmental conservation.
+
+
+
+The Aim of the project is to avoid plant damage. Our goal is to provide the Automation using IOT.
+To reduce the problem of time consuming.
+ To make a centralized system to avoid the plant damage.
+ Easy to understand Application.
+ It will be enjoyable method without affecting their day to day life.
+ Plant health maintain
+
+
+
+
+6 REFERENCES
+[1] Jeff Reed “Connect Anywhere, Anytime and with Anything” Black Swan
+Seminar Series, Virginia Tech, Institute for Critical Technology and Applied
+Science ICTAS, www.ictas.vt.edu
+[2] Kevin Ashton, “Father of Internet of Things” RFID Journal Article, June 22,
+2009
+[3] Gartner cloud computing definition, http://www.gartner.com
+/itglossary/cloud computing/
+[4] Naïve Bayes Classifier, Wikipedia, en.wikipedia.org/wiki/Naïve_
+Bayes_classifier
+[5] Chapman, P., Clinton, J., Kerber, R. Khabeza, T., Reinartz, T., Shearer, C.,
+Wirth, R.: “CRISP-DM 1.0: Step by step data mining guide”, SPSS, 1-78, 2000.
+[6] Pralhada Rao B. B, Payal Saluja, Neetu Sharma, Ankit Mittal, Shivay Veer
+Sharma, “Cloud Computing for Internet of Things & Sensing Based Applications”, 2012 Sixth International Conference on Sensing Technology (ICST)
+[7] S.D.T. Kelly, N. K. Suryadevara and S. C. Mukhopadhyay, “Towards the
+Implementation of IoT for Environmental Condition Monitoring in Homes”,
+IEEE Sensors Journal, Vol. 13, No. 10, October 2013
+[8] Shiu Kumar, “Ubiquitous Smart Home System using Android Application”,
+International Journal of Computer Networks & Communications (IJCNC) Vol.
+6, No. 1, January 2014
+[9] Atmel AT80C51 Datasheet, Atmel Corporation, San Jose, CA, USA, 2000
+[10] Sensor technologies for monitoring metabolic activity in single cells-part
+II: nonoptical methods and applications - Yotter, R.A. ; Wilson, D.M.
+[11] Overview of automotive sensors - Fleming, W.J.
+[12] Granular computing based data mining in the views of rough set and fuzzy
+set - Wang, Guoyin ; Jun Hu ; Qinghua Zhang ; Xianquan Liu ; Jiaqing Zhou
+[13] Cloud Server Optimization with Load Balancing and Green Computing
+Techniques Using Dynamic Compare and Balance Algorithm - Sahu, Y. ; Pateriya, R.K. ; Gupta, R.K.
+[14] Integration of agent-based and Cloud Computing for the smart objectsoriented IoT - Fortino, G. ; Guerrieri, A. ; Russo, W. ; Savaglio, C. 
+
+
+
+The scope of a smart garden using IoT is extensive and encompasses various aspects of gardening, automation, and sustainability. It involves the integration of IoT technologies to enhance plant care, resource management, and user experience
+
+
+Smart Vertical Gardens
+Indoor Smart Gardens
+Outdoor Smart Gardens
+Smart Window Gardens
+Portable Smart Gardens
+
+The small-scale implementation will focus on providing an accessible and user-friendly solution for urban and small-space gardening, encouraging eco-conscious practices and enhancing overall plant care for a variety of users.
+
